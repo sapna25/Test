@@ -17,6 +17,9 @@
       <command>
         <exec>echo ${option.name}</exec>
       </command>
+      <command>
+        <exec>echo ${option.surname}</exec>
+      </command>
     </sequence>
     <uuid>384878d5-9262-4807-b5dd-7c614c2f64ad</uuid>
   </job>
